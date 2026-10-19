@@ -1,0 +1,22 @@
+{
+  "wheel_id": 479,
+  "structure": "umbrella",
+  "slug": "propertymanagersunshinecoast-105",
+  "project": "rental-management-sunshine-coast-suburb-guide-77145ba5ca18ad84d",
+  "parent_t1_ref": "propertymanagersunshinecoast-152",
+  "node_role": "feeder",
+  "money_target": "propertymanagersunshinecoast.com.au",
+  "primary_kw": "rental management sunshine coast suburb guide",
+  "intended_url": "https://sitesau.github.io/propertymanagersunshinecoast-105/",
+  "tier": "T2",
+  "writeback_nonce": "b958be93ba7448a1",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/rental-management-sunshine-coast-013f8ed32743fb2c907f95216273d0/",
+      "anchor": "rental management sunshine coast",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "exact"
+    }
+  ]
+}
